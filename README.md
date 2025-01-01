@@ -77,5 +77,10 @@ Visualize salary trends and distributions with engaging Bar Charts, Pie Charts, 
 
 🔍 Insightful Analysis:
 
-Explore how employees across different job statuses and salary categories compare in terms of total pay, overtime, benefits, and more.      
+Explore how employees across different job statuses and salary categories compare in terms of total pay, overtime, benefits, and more.   
+
+Dashboard:
+-------------------------
+![image](https://github.com/user-attachments/assets/da8da908-1d88-44ac-96e1-510e540dfbf2)
+
 
