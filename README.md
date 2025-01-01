@@ -16,7 +16,7 @@ This interactive **Employee Salary Dashboard** provides a comprehensive analysis
 
 🛠️ Tools & Techniques Used:
 ------------------------------
-This dashboard was built using advanced Excel functions and interactive features to enhance data exploration. Here’s a rundown of the tools you can use to interact with the dashboard:
+Used advanced Excel functions and interactive features to enhance data exploration. Here’s a rundown of the tools we can use to interact with the dashboard:
 
 **Excel Functions:**
 
@@ -69,15 +69,15 @@ This dashboard was built using advanced Excel functions and interactive features
 
 🔄 Interactive Filters:
 
-Easily toggle between Full-time, Part-time, and Unknown job statuses using slicers. We can select Total Employees, Base Pay, Overtime Pay, Other pay and Total Pay via a combo box to refine the analysis.
+We can easily toggle between Full-time, Part-time, and Unknown job statuses using slicers. We can select Total Employees, Base Pay, Overtime Pay, Other pay and Total Pay via a combo box to refine our analysis.
 
 📊 Dynamic Visualizations:
 
-Visualize salary trends and distributions with engaging Bar Charts, Pie Charts, and Treemaps. These charts automatically update as we filter through the data.
+We can visualize salary trends and distributions with engaging Bar Charts, Pie Charts, and Treemaps. These charts automatically update as we filter through the data.
 
 🔍 Insightful Analysis:
 
-Explore how employees across different job statuses and salary categories compare in terms of total pay, overtime, benefits, and more.   
+We can explore how employees across different job statuses and salary categories compare in terms of total pay, overtime, benefits, and more.   
 
 Dashboard:
 -------------------------
