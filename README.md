@@ -2,7 +2,7 @@
 
 🎯 Project Overview:
 ------------------------------
-This interactive **Employee Salary Dashboard** provides a comprehensive analysis of employee salary data for the year 2011 to 2014, where we can explore salary data with dynamic filters and eye-catching visualizations. This project takes a deep dive into employee salary details, covering everything from base pay to overtime, benefits, and total pay across various job statuses and salary categories.
+This interactive **Employee Salary Dashboard** provides a comprehensive analysis of employee salary data for the year 2011 to 2014, where we can explore salary data with dynamic filters and visualizations. This project takes a deep dive into employee salary details, covering everything from base pay to overtime, benefits, and total pay across various job statuses and salary categories.
 
 🔍 Key Data Fields:
 -----------------------------
